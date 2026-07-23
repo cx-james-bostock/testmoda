@@ -1,4 +1,4 @@
-package modulea
+package testmoda
 
 import "fmt"
 
